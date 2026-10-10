@@ -25,17 +25,17 @@ This is a **group project** developed by **Prachi Honrao** and **Bhakti Atkale**
 ## 📊 Dashboard Pages
 
 ### Main Dashboard
-![Main Dashboard](assets/Main%20Dashboard.png)
+![Main Dashboard](Blinkit-Power-BI-Dashboard/assets/Main%20Dashboard.png)
 
 Includes KPI cards, sales by outlet tier and type, sales by establishment year and item type, fat-content distribution, a Top 10 Items by Sales table, and an item visibility-versus-sales scatter plot.
 
 ### Outlet Analysis
-![Outlet Analysis](assets/Outlet%20Analysis.png)
+![Outlet Analysis](Blinkit-Power-BI-Dashboard/assets/Outlet%20Analysis.png)
 
 Compares outlet performance, including sales by location tier and average sales by outlet size, along with key performance indicators.
 
 ### Item Analysis
-![Item Analysis](assets/Item%20Analysis.png)
+![Item Analysis](Blinkit-Power-BI-Dashboard/assets/Item%20Analysis.png)
 
 Explores item types, item counts, sales, fat-content distribution, average item ratings, and item visibility versus sales.
 
